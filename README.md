@@ -3,4 +3,4 @@ With a DOSEMETRIX Smart Blister, every time the patient extracts a tablet from t
 
 ## recast website  
 
-<video src="dosemetrix.mov"></video>
+<img src="dosemetrix.mov"/>
