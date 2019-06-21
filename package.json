@@ -1,0 +1,21 @@
+{
+  "name": "dosemetrix",
+  "version": "1.0.0",
+  "description": "Refonte site web",
+  "main": "index.js",
+  "start": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximeLarrouturou/dosemetrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximeLarrouturou/dosemetrix/issues"
+  },
+  "homepage": "https://github.com/MaximeLarrouturou/dosemetrix#readme"
+}
