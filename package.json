@@ -4,6 +4,7 @@
   "description": "Refonte site web",
   "main": "index.js",
   "start": ".",
+  "build": ".",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
